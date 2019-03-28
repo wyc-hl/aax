@@ -1,0 +1,34 @@
+* {
+	list-style-type: none;
+}
+div{
+	width: 320px;
+	
+}
+h1 {
+	font-size: 18px;
+	font: bold;
+	line-height: 35px;
+	background-color: #0f7cbf;
+	text-indent: 1em;
+}
+h3 {
+	font-size: 14px;
+	font: bold;
+	line-height: 30px;
+	background-color: #e4f1fa;
+	color: #0f7cbf;
+	
+}
+ul li {
+	font-size: 12px;
+	line-height: 20px;
+	color: #666666;
+}
+a:link { 
+	text-decoration:none;
+}
+a:hover{ 
+ 	text-decoration:underline;
+ 	color: #f60;
+  }
